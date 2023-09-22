@@ -1,2 +1,2 @@
 # Swap Token List
-Whitelisted tokens of the [swap.country](https://swap.country/).
+Token list for [swap.country](https://swap.country/).

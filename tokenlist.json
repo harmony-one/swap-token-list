@@ -91,14 +91,6 @@
       "name": "Harmonaut Original Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/HOG/logo.png"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x09e6E20FF399c2134C14232E172ce8ba2b03017E",
-      "symbol": "LOP",
-      "name": "Kilopi",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/LOP/logo.png"
     }
   ]
 }

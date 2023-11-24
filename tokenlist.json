@@ -86,7 +86,7 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xa0f92df550e1e12452c250465e54fdf77b9cf64d",
+      "address": "0xa0F92Df550E1E12452C250465E54fDF77B9cf64d",
       "symbol": "HOG",
       "name": "Harmonaut Original Token",
       "decimals": 18,
@@ -94,7 +94,7 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
+      "address": "0x09e6E20FF399c2134C14232E172ce8ba2b03017E",
       "symbol": "LOP",
       "name": "Kilopi",
       "decimals": 18,

@@ -86,6 +86,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x9c5C877DB2A5a37733Fe1a0bdcae8411Cdc8c5B3",
+      "symbol": "lUSDC",
+      "name": "Linea USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1USDC/logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xa0F92Df550E1E12452C250465E54fDF77B9cf64d",
       "symbol": "HOG",
       "name": "Harmonaut Original Token",

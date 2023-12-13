@@ -94,6 +94,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0xCF3e3622F749764ceAbF259a1aced1bE43A49E2f",
+      "symbol": "lUSDT",
+      "name": "Linea USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1USDT/logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xa0F92Df550E1E12452C250465E54fDF77B9cf64d",
       "symbol": "HOG",
       "name": "Harmonaut Original Token",

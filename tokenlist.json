@@ -107,6 +107,14 @@
       "name": "Kilopi",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/LOP/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x58055c005526a4cF357bE16180d9cfc9d8daEc8c",
+      "symbol": "HOUND",
+      "name": "Hound Investment DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/HOUND/HOUND.png"
     }
   ]
 }

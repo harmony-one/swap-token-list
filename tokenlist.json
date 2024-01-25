@@ -123,6 +123,14 @@
       "name": "Hound Investment DAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/HOUND/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xFb5e55b89dbeAF01797Be3F744bd556E4d9FB259",
+      "symbol": "Neurons",
+      "name": "Think in Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
     }
   ]
 }

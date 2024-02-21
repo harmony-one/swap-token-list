@@ -131,6 +131,14 @@
       "name": "Think in Coin",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
-    }
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x2DE61623042aD1F5564C6BdCa1D7bC5982CB4b81",
+      "symbol": "TEC",
+      "name": "TEC Viva",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/TECViva/logo.png"
+    } 
   ]
 }

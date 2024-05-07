@@ -139,6 +139,14 @@
       "name": "TEC Viva",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/TEC/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x23FA7635cd4aDB434CD71CEFf546f01750eE479b",
+      "symbol": "WAGE",
+      "name": "WAGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/WAGE/logo.png"
     } 
   ]
 }

@@ -150,3 +150,11 @@
     } 
   ]
 }
+    {
+      "chainId": 1666600000,
+      "address": "0x06578C8776e487cC477d63C70854B3c186BA296a",
+      "symbol": "PEACE",
+      "name": "PeaceLoveHarmony.ONE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/PEACE/logo.png"
+    },

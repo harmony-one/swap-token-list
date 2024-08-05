@@ -163,6 +163,14 @@
       "name": "Mona",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/MONA/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "symbol": "PEBE",
+      "name": "PeppaBeer",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/PEBE/logo.png"
     }
   ]
 }

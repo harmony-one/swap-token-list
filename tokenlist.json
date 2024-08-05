@@ -158,12 +158,18 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x33cF332B80A0236D0A75B986b5501D387F5dE169",
+      "symbol": "MONA",
+      "name": "Mona",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/MONA/logo.png"
+    },
+    {
       "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
       "symbol": "bscUSDT",
-      "name": "bscUSDT",
+      "name": "Tether USD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/bscUSDT/logo.png"
     }
   ]
 }
-    

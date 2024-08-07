@@ -163,6 +163,14 @@
       "name": "Mona",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/MONA/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x8bEde075b7BD5169b5aC87B1a5585da94eA9f831",
+      "symbol": "1SY",
+      "name": "SY Network Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1SY/logo.png"
     }
   ]
 }

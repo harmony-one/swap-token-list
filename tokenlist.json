@@ -166,6 +166,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
+      "symbol": "bscUSDT",
+      "name": "Tether USD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/bscUSDT/logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xf88ebD99E1F776fbfd08186e1EDBdaD949114D1c",
       "symbol": "1SY",
       "name": "SY Network Token",

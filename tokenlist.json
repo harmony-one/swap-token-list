@@ -166,6 +166,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x5F6f4C224A39cec9AA142648dBde7B611591a0E7",
+      "symbol": "PEBE",
+      "name": "PeppaBeer",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/PEBE/logo.png"
+      },
+      {
+      "chainId": 1666600000,
       "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
       "symbol": "bscUSDT",
       "name": "Tether USD",

@@ -2,7 +2,7 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
@@ -10,7 +10,7 @@
     "harmony",
     "tokens"
   ],
-  "timestamp": "2024-10-01T14:25:01Z",
+  "timestamp": "2024-10-29T23:10:30Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -187,6 +187,14 @@
       "name": "SY Network Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1SY/logo.png"
+    },
+    {
+     "chainId": 1666600000,
+      "address": "one1qatftyev9l40hnfrnyp382gv3eqen628cnx3rs",
+      "symbol": "BRX",
+      "name": "Black XXoR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/blob/main/assets/BRX/logo.svg" 
     }
   ]
 }

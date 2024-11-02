@@ -190,11 +190,11 @@
     },
     {
      "chainId": 1666600000,
-      "address": "one1qatftyev9l40hnfrnyp382gv3eqen628cnx3rs",
+      "address": "0x075695932C2feAfBcD23990313a90C8e4199e947",
       "symbol": "BRX",
       "name": "Black XXoR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/blob/main/assets/BRX/logo.svg" 
+      "logoURI": "https://github.com/xris003/swap-token-list/blob/main/assets/BRX/logo.svg" 
     }
   ]
 }

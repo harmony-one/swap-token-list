@@ -2,7 +2,7 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   },
   "logoURI": "https://harmony.one/logo",
@@ -10,7 +10,7 @@
     "harmony",
     "tokens"
   ],
-  "timestamp": "2024-10-29T23:10:30Z",
+  "timestamp": "2024-11-06T15:48:30Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -195,6 +195,14 @@
       "name": "Black XXoR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/BRX/logo.png" 
+    },
+    {
+     "chainId": 1666600000,
+      "address": "0xeD2f209c9FC36C8311BED3D6d73BA19A692376b4",
+      "symbol": "uONE",
+      "name": "Utility staked ONE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/uONE/logo.png" 
     }
   ]
 }

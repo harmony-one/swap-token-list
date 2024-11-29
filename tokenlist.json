@@ -171,8 +171,16 @@
       "name": "PeppaBeer",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/PEBE/logo.png"
-      },
-      {
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xC8468C26345dcC4DaE328BeFA0e8cF4Dd968BEa9",
+      "symbol": "baseUSDC",
+      "name": "Base USD Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/baseUSDC/logo.png"
+    },
+    {
       "chainId": 1666600000,
       "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
       "symbol": "bscUSDT",

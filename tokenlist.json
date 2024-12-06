@@ -2,7 +2,7 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   },
   "logoURI": "https://harmony.one/logo",
@@ -10,7 +10,7 @@
     "harmony",
     "tokens"
   ],
-  "timestamp": "2024-11-06T15:48:30Z",
+  "timestamp": "2024-12-06T15:36:48Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -171,8 +171,16 @@
       "name": "PeppaBeer",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/PEBE/logo.png"
-      },
-      {
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xC8468C26345dcC4DaE328BeFA0e8cF4Dd968BEa9",
+      "symbol": "baseUSDC",
+      "name": "Base USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/baseUSDC/logo.png"
+    },
+    {
       "chainId": 1666600000,
       "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
       "symbol": "bscUSDT",

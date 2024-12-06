@@ -2,7 +2,7 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   },
   "logoURI": "https://harmony.one/logo",
@@ -10,7 +10,7 @@
     "harmony",
     "tokens"
   ],
-  "timestamp": "2024-11-06T15:48:30Z",
+  "timestamp": "2024-12-06T15:36:48Z",
   "tokens": [
     {
       "chainId": 1666600000,

@@ -177,7 +177,7 @@
       "address": "0xC8468C26345dcC4DaE328BeFA0e8cF4Dd968BEa9",
       "symbol": "baseUSDC",
       "name": "Base USD Coin",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/baseUSDC/logo.png"
     },
     {

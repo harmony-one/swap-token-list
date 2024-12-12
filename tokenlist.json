@@ -224,10 +224,10 @@
      {
       "chainId": 1666600000,
        "address": "0xd068722E4e1387E4958300D1e625d2878f784125",
-       "symbol": "DAI",
-       "name": "DAI",
+       "symbol": "1DAI",
+       "name": "1DAI",
        "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/DAI/logo.png"
+       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1DAI/logo.png"
      },
      {
       "chainId": 1666600000,

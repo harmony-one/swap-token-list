@@ -225,7 +225,7 @@
       "chainId": 1666600000,
        "address": "0xd068722E4e1387E4958300D1e625d2878f784125",
        "symbol": "1DAI",
-       "name": "1DAI",
+       "name": "Dai Stablecoin",
        "decimals": 18,
        "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1DAI/logo.png"
      },
@@ -233,7 +233,7 @@
       "chainId": 1666600000,
        "address": "0xeDEb95D51dBc4116039435379Bd58472A2c09b1f",
        "symbol": "1sDAI",
-       "name": "1sDAI",
+       "name": "Savings Dai",
        "decimals": 18,
        "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1sDAI/logo.png"
      }

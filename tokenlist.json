@@ -2,15 +2,15 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
   "keywords": [
     "harmony",
     "tokens"
   ],
-  "timestamp": "2024-12-06T15:36:48Z",
+  "timestamp": "2024-12-14T13:04:31Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -147,6 +147,14 @@
       "name": "WAGE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/WAGE/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x144742A1c301F32141c51940041f54B33A4747BE",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/TEST/logo.png"
     },
     {
       "chainId": 1666600000,

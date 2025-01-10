@@ -3,14 +3,14 @@
   "version": {
     "major": 2,
     "minor": 5,
-    "patch": 1
+    "patch": 2
   },
   "logoURI": "https://harmony.one/logo",
   "keywords": [
     "harmony",
     "tokens"
   ],
-  "timestamp": "2024-12-12T01:20:00Z",
+  "timestamp": "2025-01-10T09:25:00Z",
 
   "tokens": [
     {
@@ -148,6 +148,14 @@
       "name": "WAGE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/WAGE/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x144742A1c301F32141c51940041f54B33A4747BE",
+      "symbol": "Test",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/TEST/logo.png"
     },
     {
       "chainId": 1666600000,

@@ -2,7 +2,7 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 5,
+    "minor": 6,
     "patch": 1
   },
   "logoURI": "https://harmony.one/logo",
@@ -236,6 +236,14 @@
        "name": "Savings Dai",
        "decimals": 18,
        "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1sDAI/logo.png"
+     },
+     {
+       "chainId": 1666600000,
+       "address": "0xc4Aa9D9D003E68b6c3D223670d4dA74BB65c4666",
+       "symbol": "ENP",
+       "name": "EasyNode.pro",
+       "decimals": 18,
+       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/ENP/logo.png"
      }
   ]
 }

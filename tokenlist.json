@@ -2,15 +2,15 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 6,
-    "patch": 2
+    "minor": 7,
+    "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
   "keywords": [
     "harmony",
     "tokens"
   ],
-  "timestamp": "2025-01-10T09:25:00Z",
+  "timestamp": "2025-02-20T10:25:00Z",
 
   "tokens": [
     {
@@ -143,11 +143,19 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x61F37cacA63C7Ec65366a09A0D151252fbCf4fd4",
+      "symbol": "cldBTC",
+      "name": "Crypto Land DAO baseBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/cldBTC/logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0x23FA7635cd4aDB434CD71CEFf546f01750eE479b",
       "symbol": "WAGE",
       "name": "WAGE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/WAGE/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/cldBTC/logo.png"
     },
     {
       "chainId": 1666600000,

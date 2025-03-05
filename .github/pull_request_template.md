@@ -13,3 +13,5 @@ Token name: <!-- name of the token -->
   - Check the version field of the proposed `tokenlist.json` file. If token is being added then bump in minor, if token is being edited then bump in patch
 - [ ] Is icon file present?
   - It's ok if the logo doesn't render in the proposed URL, but it has to be present in the PR
+ - [ ] What's the tokeneconomics (https://en.wikipedia.org/wiki/Tokenomics)
+ - [ ] Could you provide any further information about the token's value proposition and utility?

@@ -2,7 +2,7 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
@@ -10,7 +10,7 @@
     "harmony",
     "tokens"
   ],
-  "timestamp": "2025-02-20T10:25:00Z",
+  "timestamp": "2025-03-13T12:30:00Z",
 
   "tokens": [
     {
@@ -164,6 +164,14 @@
       "name": "Test",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/TEST/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xB81B2d63c23180D9B28D2AD0f9E6dedde89961Ba",
+      "symbol": "RUG",
+      "name": "Rapid Utility Guild",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/RUG/logo.png"
     },
     {
       "chainId": 1666600000,

@@ -126,14 +126,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xFb5e55b89dbeAF01797Be3F744bd556E4d9FB259",
-      "symbol": "Neurons",
-      "name": "Think in Coin",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x0DEB9A1998aAE32dAAcF6de21161c3E942aCe074",
       "symbol": "TEC",
       "name": "TEC Viva",
@@ -275,6 +267,14 @@
       "name": "EasyNode.pro",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/ENP/logo.png"
+    },
+    {
+       "chainId": 1666600000,
+       "address": "0xA4A72cB0C1cdE087B40d79F28f559B047Df1760f",
+       "symbol": "Neurons",
+       "name": "Neurons",
+       "decimals": 18,
+       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
     }
   ]
 }

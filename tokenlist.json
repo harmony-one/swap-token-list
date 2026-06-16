@@ -10,8 +10,7 @@
     "harmony",
     "tokens"
   ],
-  "timestamp": "2026-01-15T12:30:00Z",
-
+  "timestamp": "2026-05-27T00:03:08Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -159,6 +158,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0xB53B134090191276FB644e50e46f328D5Ec635Eb",
+      "symbol": "CLAW",
+      "name": "Claw",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/CLAW/logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0x144742A1c301F32141c51940041f54B33A4747BE",
       "symbol": "Test",
       "name": "Test",
@@ -222,7 +229,7 @@
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1SY/logo.png"
     },
     {
-     "chainId": 1666600000,
+      "chainId": 1666600000,
       "address": "0x075695932C2feAfBcD23990313a90C8e4199e947",
       "symbol": "BRX",
       "name": "Black XXoR",
@@ -230,7 +237,7 @@
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/BRX/logo.png"
     },
     {
-     "chainId": 1666600000,
+      "chainId": 1666600000,
       "address": "0xeD2f209c9FC36C8311BED3D6d73BA19A692376b4",
       "symbol": "uONE",
       "name": "Utility staked ONE",
@@ -239,43 +246,35 @@
     },
     {
       "chainId": 1666600000,
-       "address": "0xe4EE991aa59e0c2c6a617FD8fEeA85E0E446cd92",
-       "symbol": "KAQ",
-       "name": "KingsAndQuests",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/KAQ/logo.png"
-     },
-     {
-      "chainId": 1666600000,
-       "address": "0xd068722E4e1387E4958300D1e625d2878f784125",
-       "symbol": "1DAI",
-       "name": "Dai Stablecoin",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1DAI/logo.png"
-     },
-     {
-      "chainId": 1666600000,
-       "address": "0xeDEb95D51dBc4116039435379Bd58472A2c09b1f",
-       "symbol": "1sDAI",
-       "name": "Savings Dai",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1sDAI/logo.png"
-     },
-     {
-       "chainId": 1666600000,
-       "address": "0xc4Aa9D9D003E68b6c3D223670d4dA74BB65c4666",
-       "symbol": "ENP",
-       "name": "EasyNode.pro",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/ENP/logo.png"
-     },
-     {
-      "chainId": 1666600000,
-      "address": "0xC30a7F9c216B945Ff8ACFB389e955A637eB0f478",
-      "symbol": "ELEPHANT",
-      "name": "Elephant",
+      "address": "0xe4EE991aa59e0c2c6a617FD8fEeA85E0E446cd92",
+      "symbol": "KAQ",
+      "name": "KingsAndQuests",
       "decimals": 18,
-      "logoURI": "https://i.ibb.co/dw5XD5bp/etoken.png"
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/KAQ/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd068722E4e1387E4958300D1e625d2878f784125",
+      "symbol": "1DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1DAI/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xeDEb95D51dBc4116039435379Bd58472A2c09b1f",
+      "symbol": "1sDAI",
+      "name": "Savings Dai",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1sDAI/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xc4Aa9D9D003E68b6c3D223670d4dA74BB65c4666",
+      "symbol": "ENP",
+      "name": "EasyNode.pro",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/ENP/logo.png"
     }
   ]
 }

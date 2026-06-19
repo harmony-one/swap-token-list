@@ -6,10 +6,7 @@
     "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
-  "keywords": [
-    "harmony",
-    "tokens"
-  ],
+  "keywords": ["harmony", "tokens"],
   "timestamp": "2026-06-18T00:22:23Z",
   "tokens": [
     {
@@ -269,20 +266,12 @@
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/ENP/logo.png"
     },
     {
-       "chainId": 1666600000,
-       "address": "0xA4A72cB0C1cdE087B40d79F28f559B047Df1760f",
-       "symbol": "Neurons",
-       "name": "Neurons",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
-    },
-        {
-       "chainId": 1666600000,
-       "address": "0xA4A72cB0C1cdE087B40d79F28f559B047Df1760f",
-       "symbol": "Neurons",
-       "name": "Neurons",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
+      "chainId": 1666600000,
+      "address": "0xA4A72cB0C1cdE087B40d79F28f559B047Df1760f",
+      "symbol": "Neurons",
+      "name": "Neurons",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
     },
     {
       "chainId": 1666600000,

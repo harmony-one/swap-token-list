@@ -2,15 +2,12 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
-  "keywords": [
-    "harmony",
-    "tokens"
-  ],
-  "timestamp": "2026-05-27T00:03:08Z",
+  "keywords": ["harmony", "tokens"],
+  "timestamp": "2026-06-18T00:22:23Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -269,12 +266,20 @@
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/ENP/logo.png"
     },
     {
-       "chainId": 1666600000,
-       "address": "0xA4A72cB0C1cdE087B40d79F28f559B047Df1760f",
-       "symbol": "Neurons",
-       "name": "Neurons",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
+      "chainId": 1666600000,
+      "address": "0xA4A72cB0C1cdE087B40d79F28f559B047Df1760f",
+      "symbol": "Neurons",
+      "name": "Neurons",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xC30a7F9c216B945Ff8ACFB389e955A637eB0f478",
+      "symbol": "ELEPHANT",
+      "name": "Elephant",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/dw5XD5bp/etoken.png"
     }
   ]
 }

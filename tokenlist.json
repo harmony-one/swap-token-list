@@ -2,16 +2,12 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 5,
-    "patch": 1
+    "minor": 10,
+    "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
-  "keywords": [
-    "harmony",
-    "tokens"
-  ],
-  "timestamp": "2024-12-12T01:20:00Z",
-
+  "keywords": ["harmony", "tokens"],
+  "timestamp": "2026-06-18T00:22:23Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -127,14 +123,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xFb5e55b89dbeAF01797Be3F744bd556E4d9FB259",
-      "symbol": "Neurons",
-      "name": "Think in Coin",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x0DEB9A1998aAE32dAAcF6de21161c3E942aCe074",
       "symbol": "TEC",
       "name": "TEC Viva",
@@ -143,11 +131,43 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x61F37cacA63C7Ec65366a09A0D151252fbCf4fd4",
+      "symbol": "cldBTC",
+      "name": "Crypto Land DAO baseBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/cldBTC/logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0x23FA7635cd4aDB434CD71CEFf546f01750eE479b",
       "symbol": "WAGE",
       "name": "WAGE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/WAGE/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xB53B134090191276FB644e50e46f328D5Ec635Eb",
+      "symbol": "CLAW",
+      "name": "Claw",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/CLAW/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x144742A1c301F32141c51940041f54B33A4747BE",
+      "symbol": "Test",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/TEST/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xB81B2d63c23180D9B28D2AD0f9E6dedde89961Ba",
+      "symbol": "RUG",
+      "name": "Rapid Utility Guild",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/RUG/logo.png"
     },
     {
       "chainId": 1666600000,
@@ -198,7 +218,7 @@
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1SY/logo.png"
     },
     {
-     "chainId": 1666600000,
+      "chainId": 1666600000,
       "address": "0x075695932C2feAfBcD23990313a90C8e4199e947",
       "symbol": "BRX",
       "name": "Black XXoR",
@@ -206,7 +226,7 @@
       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/BRX/logo.png"
     },
     {
-     "chainId": 1666600000,
+      "chainId": 1666600000,
       "address": "0xeD2f209c9FC36C8311BED3D6d73BA19A692376b4",
       "symbol": "uONE",
       "name": "Utility staked ONE",
@@ -215,27 +235,51 @@
     },
     {
       "chainId": 1666600000,
-       "address": "0xe4EE991aa59e0c2c6a617FD8fEeA85E0E446cd92",
-       "symbol": "KAQ",
-       "name": "KingsAndQuests",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/KAQ/logo.png"
-     },
-     {
+      "address": "0xe4EE991aa59e0c2c6a617FD8fEeA85E0E446cd92",
+      "symbol": "KAQ",
+      "name": "KingsAndQuests",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/KAQ/logo.png"
+    },
+    {
       "chainId": 1666600000,
-       "address": "0xd068722E4e1387E4958300D1e625d2878f784125",
-       "symbol": "1DAI",
-       "name": "Dai Stablecoin",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1DAI/logo.png"
-     },
-     {
+      "address": "0xd068722E4e1387E4958300D1e625d2878f784125",
+      "symbol": "1DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1DAI/logo.png"
+    },
+    {
       "chainId": 1666600000,
-       "address": "0xeDEb95D51dBc4116039435379Bd58472A2c09b1f",
-       "symbol": "1sDAI",
-       "name": "Savings Dai",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1sDAI/logo.png"
-     }
+      "address": "0xeDEb95D51dBc4116039435379Bd58472A2c09b1f",
+      "symbol": "1sDAI",
+      "name": "Savings Dai",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/1sDAI/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xc4Aa9D9D003E68b6c3D223670d4dA74BB65c4666",
+      "symbol": "ENP",
+      "name": "EasyNode.pro",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/ENP/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xA4A72cB0C1cdE087B40d79F28f559B047Df1760f",
+      "symbol": "Neurons",
+      "name": "Neurons",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/NEURONS/logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xC30a7F9c216B945Ff8ACFB389e955A637eB0f478",
+      "symbol": "ELEPHANT",
+      "name": "Elephant",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/dw5XD5bp/etoken.png"
+    }
   ]
 }
